@@ -8,7 +8,7 @@ class MianHeader extends Component{
         return <Layout.Header >
             <Row className="wrap">
                 <Col md={6} xs={24}>
-                    <h1 className="logo">cNode</h1>
+                    <h1 className="logo">广西云融媒体</h1>
                 </Col>
                 <Col md={18} xs={0}>
                     <Divider type="vertical" className="header-divider"/>
